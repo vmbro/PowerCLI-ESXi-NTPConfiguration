@@ -24,7 +24,7 @@ You need following software and versions to use scripts.
 
 ## More details about scripts
 
-https://vmbro.com/veeam-backup-ve-slack-alarmlari-1-unprotected-vms/ - Related Article
+https://vmbro.com/powercli-ile-esxi-toplu-ntp-guncelleme-ve-slack-bildirimi/ - Related Article
 
 
 
