@@ -24,7 +24,7 @@ You need following software and versions to use scripts.
 
 ## More details about scripts
 
-You can visit my blog for [creating vSphere Tags with PowerCLI](https://vmbro.com/vmware-powercli-ile-esxi-toplu-ntp-guncelleme-ve-slack-bildirimi/) and more detailed information.
+You can visit my blog for [updating NTP on multiple ESXi hosts with PowerCLI](https://vmbro.com/vmware-powercli-ile-esxi-toplu-ntp-guncelleme-ve-slack-bildirimi/) and more detailed information.
 
 
 ## License
